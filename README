@@ -1,0 +1,23 @@
+Teste QA - Vitta
+
+1. Para executar o projeto, você instalar os arquivos abaixo:
+
+NODE JS.
+-> https://nodejs.org/en/download/
+
+2. Você deve acessar o caminho abaixo e baixar o projeto no Github:
+
+GITHUB
+-> https://nodejs.org/en/download/
+
+3. Depois disso, acesse um terminal de sua escolha: 
+
+-> CMD, POWERSHELL, GITBASH.
+
+4. Acesse a pasta do projeto via terminal ou localize a pasta e digite o comando "cmd" na barra do diretório.
+
+5. Agora execute o comando node test.js
+
+
+
+

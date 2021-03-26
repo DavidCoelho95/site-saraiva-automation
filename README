@@ -8,7 +8,7 @@ NODE JS.
 2. Você deve acessar o caminho abaixo e baixar o projeto no Github:
 
 GITHUB
--> https://nodejs.org/en/download/
+-> https://github.com/DavidCoelho95/QA-Vitta
 
 3. Depois disso, acesse um terminal de sua escolha: 
 
@@ -17,6 +17,8 @@ GITHUB
 4. Acesse a pasta do projeto via terminal ou localize a pasta e digite o comando "cmd" na barra do diretório.
 
 5. Agora execute o comando node test.js
+
+6. O navegador será aberto.
 
 
 

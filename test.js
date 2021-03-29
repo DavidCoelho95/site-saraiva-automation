@@ -75,7 +75,7 @@ windows.forEach(async handle => {
    await driver.wait(until.elementLocated(By.id('InputEmail1')), 10000);
    await driver.findElement(By.id("InputEmail1")).click()
        //Atenção: Modificar o valor do campo apos primeira execução
-   await driver.findElement(By.id("InputEmail1")).sendKeys("henriqueseverino19911@gmail.com")
+   await driver.findElement(By.id("InputEmail1")).sendKeys("henriqueseverino199111@gmail.com")
 
     //Senha
     await driver.wait(until.elementLocated(By.id('InputSenha1')), 10000);
@@ -92,7 +92,7 @@ windows.forEach(async handle => {
     await driver.findElement(By.id("InputCpf1")).click()
     await driver.sleep(2000);
     //Atenção: Modificar o valor do campo apos primeira execução
-    await driver.findElement(By.id("InputCpf1")).sendKeys("528.667.090-39");
+    await driver.findElement(By.id("InputCpf1")).sendKeys("295.858.900-54");
 
         //Selecionar o sexo feminino 
         //await driver.findElement(By.css('.row:nth-child(6) > .col .col:nth-child(1) label')).click()
